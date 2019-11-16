@@ -1,0 +1,8 @@
+---
+applications:
+- name: consumption-rrd-graph
+  memory: 1GB
+  buildpacks:
+  - java_buildpack_offline
+  stack: cflinuxfs3
+  path: target/1nce-management-api-access-and-rrd4j-graphs-0.0.1-SNAPSHOT.jar
