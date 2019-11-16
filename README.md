@@ -1,6 +1,6 @@
 # 1nce-management-api-access-and-rrd4j-graphs
-Simple solution to read out NB-IoT data traffic consumption from the 1NCE management API, store it in a round-robin 
-database and show the result in a graph.
+Simple solution to read out NB-IoT data traffic consumption from the [1NCE management API](https://1nce.com/en/help-center/tutorials-documentations/api-functionality),
+store it in a round-robin database and show the result in a graph.
 
 ![Flatrate data consumption](media/flatrate-data-consumption.png "Flatrate data consumption")
 
