@@ -7,4 +7,4 @@
 1nce:
   client-id: <your-client-id>
   client-secret: <your-client-secret>
-  token-endpoint: https://portal.1nce.com/management-api/oauth/token
+  token-endpoint: "https://portal.1nce.com/management-api/oauth/token"
